@@ -1,7 +1,3 @@
-# Memory-Hacking-with-Mac-OS-X
+# Python memory hacking
 
-repository name is clear! : )
-
-## about
-
-> this repository fully trash ( :
+Based on a fork; this version includes Python processes.
